@@ -14,7 +14,7 @@ console.log("accountId");
 
 /*
 prefer not to use var and use let and const instead of var
-becasue of issue in block scope and function scope
+becasue of issue in bock scope and function scope
 */
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState])
